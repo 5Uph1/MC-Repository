@@ -18,7 +18,7 @@ function App() {
             <a href="https://www.instagram.com/yasinahmad_tofa/" className="bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 opacity-90 p-4 rounded-4xl hover:opacity-100 transition duration-300 hover:-translate-y-2"><i className="ri-instagram-line ri-xl"></i> Instagram </a>
           </div>
         </div>
-        <img src="/image/Kak Yasin & Tofa.png" alt="Hero Image" className="w-[500px] rounded-b-4xl md:ml-auto animate__animated animate__fadeInUp animate__delay-1s animate__slow" loading="lazy"/>
+        <img src="./image/Kak Yasin & Tofa.png" alt="Hero Image" className="w-[500px] rounded-b-4xl md:ml-auto animate__animated animate__fadeInUp animate__delay-1s animate__slow" loading="lazy"/>
       </div>
 
       {/* Tentang */}
@@ -28,7 +28,7 @@ function App() {
           <p className="text-base/loose mb-4 text-justify">Saya adalah seorang MC dan pendongeng profesional yang telah berkecimpung di dunia event sejak tahun 2014. Perjalanan karier saya dimulai dari berbagai kesempatan memandu acara, baik acara pemerintahan, akad nikah, resepsi pernikahan, hingga kegiatan mendongeng yang membutuhkan kemampuan komunikasi dan penguasaan panggung yang kuat. Dengan pengalaman tersebut, saya terbiasa menyesuaikan gaya pembawaan sesuai dengan karakter dan kebutuhan setiap acara.</p>
           <p className="text-base/loose mb-10 text-justify">Selain aktif di berbagai event, saya juga pernah tampil di TVRI sebagai pembawa acara, yang semakin memperkaya pengalaman saya dalam membawakan acara secara profesional di depan kamera maupun audiens secara langsung. Saya juga pernah mengikuti audisi AKSI pada tahun 20XX, yang menjadi salah satu pengalaman berharga dalam mengasah mental, kepercayaan diri, serta kemampuan berbicara di hadapan publik yang lebih luas. Dengan pengalaman, dedikasi, dan kecintaan pada dunia komunikasi, saya siap membantu menghadirkan acara yang berjalan lancar, berkesan, dan penuh makna.</p>
           <div className="flex items-center justify-between">
-            <img src="/image/Kak Yasin & Tofa.png" alt="Image" className="w-12 rounded-md sm:block hidden" loading="lazy"/>
+            <img src="./image/Kak Yasin & Tofa.png" alt="Image" className="w-12 rounded-md sm:block hidden" loading="lazy"/>
             <div className="flex items-center gap-6">
               <div>
                 <h1 className="text-4xl mb-1">250<span className="text-amber-500">+</span></h1>
@@ -102,7 +102,7 @@ function App() {
         <div className="bg-zinc-800 rounded-md py-10 px-7 lg:w-2/3 w-full mx-auto flex flex-col lg:gap-10 gap-6" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
           <h1 className="text-4xl font-bold mb-4 text-center underline decoration-amber-500 decoration-3 underline-offset-4">Welcome Notes!</h1>
           <div className="xl:flex gap-3 items-center">
-            <img src="/image/img3.jpg" alt="Ini Gambar" width="300px" className="block mx-auto border p-2 xl:mx-0 xl:ml-3"/>
+            <img src="./image/img3.jpg" alt="Ini Gambar" width="300px" className="block mx-auto border p-2 xl:mx-0 xl:ml-3"/>
             <div className="p-2">
               <p className="text-base/loose opacity-50 mx-auto text-justify mt-4 xl:mt-0">"Selamat datang di website kami. Anda telah mengambil keputusan yang tepat dengan mengunjungi website ini. Kami hadir sebagai solusi bagi Anda yang sedang mencari referensi Jasa MC profesional untuk mempersiapkan acara Anda. Percayakan momen penting Anda kepada kami, dan biarkan kami membantu mewujudkan acara yang berkesan dan berjalan dengan sempurna.</p>
               <p className="text-base/loose opacity-50 mx-auto text-justify mt-4">
@@ -120,22 +120,22 @@ function App() {
         <p className="text-base/loose text-center opacity-50" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300" data-aos-once="true">Berikut beberapa momen saat saya memandu berbagai acara</p>
         <div className="proyek-box mt-14 grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-4">
           <div className="p-4 bg-zinc-800 rounded-md" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true">
-            <img src="/image/img2.jpg" alt="Proyek Image" loading="lazy"/>
+            <img src="./image/img2.jpg" alt="Proyek Image" loading="lazy"/>
           </div>
           <div className="p-4 bg-zinc-800 rounded-md" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true">
-            <img src="/image/img4.jpg" alt="Proyek Image" loading="lazy"/>
+            <img src="./image/img4.jpg" alt="Proyek Image" loading="lazy"/>
           </div>
           <div className="p-4 bg-zinc-800 rounded-md" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true">
-            <img src="/image/img5.jpg" alt="Proyek Image" loading="lazy"/>
+            <img src="./image/img5.jpg" alt="Proyek Image" loading="lazy"/>
           </div>
           <div className="p-4 bg-zinc-800 rounded-md" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true">
-            <img src="/image/img7.jpg" alt="Proyek Image" loading="lazy"/>
+            <img src="./image/img7.jpg" alt="Proyek Image" loading="lazy"/>
           </div>
           <div className="p-4 bg-zinc-800 rounded-md" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true">
-            <img src="/image/img1.jpg" alt="Proyek Image" loading="lazy"/>
+            <img src="./image/img1.jpg" alt="Proyek Image" loading="lazy"/>
           </div>
           <div className="p-4 bg-zinc-800 rounded-md" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true">
-            <img src="/image/img9.jpg" alt="Proyek Image" loading="lazy"/>
+            <img src="./image/img9.jpg" alt="Proyek Image" loading="lazy"/>
           </div>
         </div>
       </div>
