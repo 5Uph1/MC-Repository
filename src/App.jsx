@@ -24,7 +24,7 @@ function App() {
       {/* Tentang */}
       <div className="tentang mt-32 py-10" id="tentang">
         <div className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
-          <img src="/image/Kak Yasin & Tofa.png" alt="Image" className="w-12 rounded-md mb-10 sm:hidden" loading="lazy"/>
+          <img src="./image/Kak Yasin & Tofa.png" alt="Image" className="w-12 rounded-md mb-10 sm:hidden" loading="lazy"/>
           <p className="text-base/loose mb-4 text-justify">Saya adalah seorang MC dan pendongeng profesional yang telah berkecimpung di dunia event sejak tahun 2014. Perjalanan karier saya dimulai dari berbagai kesempatan memandu acara, baik acara pemerintahan, akad nikah, resepsi pernikahan, hingga kegiatan mendongeng yang membutuhkan kemampuan komunikasi dan penguasaan panggung yang kuat. Dengan pengalaman tersebut, saya terbiasa menyesuaikan gaya pembawaan sesuai dengan karakter dan kebutuhan setiap acara.</p>
           <p className="text-base/loose mb-10 text-justify">Selain aktif di berbagai event, saya juga pernah tampil di TVRI sebagai pembawa acara, yang semakin memperkaya pengalaman saya dalam membawakan acara secara profesional di depan kamera maupun audiens secara langsung. Saya juga pernah mengikuti audisi AKSI pada tahun 20XX, yang menjadi salah satu pengalaman berharga dalam mengasah mental, kepercayaan diri, serta kemampuan berbicara di hadapan publik yang lebih luas. Dengan pengalaman, dedikasi, dan kecintaan pada dunia komunikasi, saya siap membantu menghadirkan acara yang berjalan lancar, berkesan, dan penuh makna.</p>
           <div className="flex items-center justify-between">
